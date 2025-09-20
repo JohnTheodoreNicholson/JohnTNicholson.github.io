@@ -23,7 +23,7 @@ repository               : "johntnicholson/johntnicholson.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "john.jpg"
   name             : "John Nicholson"
   pronouns         : "he/him"
   bio              : "Fourth year PhD student interested in mathematical logic and theoretical computer science"
