@@ -14,22 +14,13 @@ Education
 * Ph.D in Mathematics and Statistics, McMaster University, 2027 (expected)
 * M.S. in Mathematics, McMaster University, 2022
 * H.B.Sc. in Mathematics and Physics, McMaster University, 2021
-
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+[comment]: <> (
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+)
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
